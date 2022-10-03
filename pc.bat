@@ -1,0 +1,2 @@
+ceho off
+shutdown /p
